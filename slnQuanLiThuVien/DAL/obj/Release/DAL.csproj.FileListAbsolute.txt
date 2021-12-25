@@ -1,0 +1,6 @@
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\DAL\bin\Release\DAL.dll
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\DAL\bin\Release\DAL.pdb
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\DAL\obj\Release\DAL.dll
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\DAL\obj\Release\DAL.pdb

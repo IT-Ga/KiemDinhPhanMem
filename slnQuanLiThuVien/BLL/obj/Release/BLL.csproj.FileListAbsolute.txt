@@ -1,0 +1,9 @@
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\BLL\bin\Release\BLL.dll
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\BLL\bin\Release\BLL.pdb
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\BLL\bin\Release\DAL.dll
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\BLL\bin\Release\DAL.pdb
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\BLL\obj\Release\BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\BLL\obj\Release\BLL.csproj.CopyComplete
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\BLL\obj\Release\BLL.dll
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\BLL\obj\Release\BLL.pdb

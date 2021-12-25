@@ -1,0 +1,48 @@
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\DAL\bin\Debug\DAL.dll
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\DAL\bin\Debug\DAL.pdb
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\DAL\obj\Debug\DAL.dll
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\DAL\obj\Debug\DAL.pdb
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\DAL\bin\Debug\DAL.dll
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\DAL\bin\Debug\DAL.pdb
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\DAL\obj\Debug\DAL.dll
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\DAL\obj\Debug\DAL.pdb
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\DAL\bin\Debug\DAL.dll
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\DAL\bin\Debug\DAL.pdb
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\DAL\obj\Debug\DAL.dll
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\DAL\obj\Debug\DAL.pdb
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\DAL\bin\Debug\DAL.dll
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\DAL\bin\Debug\DAL.pdb
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\DAL\obj\Debug\DAL.dll
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\DAL\obj\Debug\DAL.pdb
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\DAL\obj\Debug\DAL.dll
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\DAL\bin\Debug\DAL.dll
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\DAL\bin\Debug\DAL.pdb
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\DAL\obj\Debug\DAL.pdb
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\DAL\bin\Debug\DAL.dll
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\DAL\bin\Debug\DAL.pdb
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\DAL\obj\Debug\DAL.dll
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\DAL\obj\Debug\DAL.pdb
+C:\Users\ADMIN\Downloads\sach\slnQuanLiThuVien\DAL\bin\Debug\DAL.dll
+C:\Users\ADMIN\Downloads\sach\slnQuanLiThuVien\DAL\bin\Debug\DAL.pdb
+C:\Users\ADMIN\Downloads\sach\slnQuanLiThuVien\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\sach\slnQuanLiThuVien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\sach\slnQuanLiThuVien\DAL\obj\Debug\DAL.dll
+C:\Users\ADMIN\Downloads\sach\slnQuanLiThuVien\DAL\obj\Debug\DAL.pdb
+D:\năm4\KIỂM ĐỊNH PHẦM MỀM\Bao_Cao_Nop\sach\slnQuanLiThuVien\DAL\bin\Debug\DAL.dll
+D:\năm4\KIỂM ĐỊNH PHẦM MỀM\Bao_Cao_Nop\sach\slnQuanLiThuVien\DAL\bin\Debug\DAL.pdb
+D:\năm4\KIỂM ĐỊNH PHẦM MỀM\Bao_Cao_Nop\sach\slnQuanLiThuVien\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\năm4\KIỂM ĐỊNH PHẦM MỀM\Bao_Cao_Nop\sach\slnQuanLiThuVien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\năm4\KIỂM ĐỊNH PHẦM MỀM\Bao_Cao_Nop\sach\slnQuanLiThuVien\DAL\obj\Debug\DAL.dll
+D:\năm4\KIỂM ĐỊNH PHẦM MỀM\Bao_Cao_Nop\sach\slnQuanLiThuVien\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Downloads\mã nguồn 2 chức năng\slnQuanLiThuVien\DAL\obj\Debug\DAL.pdb
